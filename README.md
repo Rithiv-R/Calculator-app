@@ -1,6 +1,14 @@
-# calculator
+# Basic Calculator
 
-A new Flutter project.
+This represents the basic calculator which contains the basic mathematical operation with the output.
+
+# Screenshots
+
+**HOMESCREEN**
+![HOMESCREEN](assets\Homescreen.jpg)
+
+**RESULTSCREEN**
+![HOMESCREEN](assets\Resultscreen.jpg)
 
 ## Getting Started
 
