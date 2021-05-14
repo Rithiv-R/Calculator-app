@@ -5,10 +5,10 @@ This represents the basic calculator which contains the basic mathematical opera
 # Screenshots
 
 **HOMESCREEN**
-![HOMESCREEN](assets\Homescreen.jpg)
+![HOMESCREEN](assets/Homescreen.jpg)
 
 **RESULTSCREEN**
-![HOMESCREEN](assets\Resultscreen.jpg)
+![HOMESCREEN](assets/Resultscreen.jpg)
 
 ## Getting Started
 
